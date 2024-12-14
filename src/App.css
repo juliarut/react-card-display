@@ -1,0 +1,26 @@
+.baked-goods-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.baked-goods-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.baked-goods-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  width: 200px;
+  text-align: center;
+}
+
+.cart {
+  margin-top: 40px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Cake",
+    "price": 120,
+    "image": "https://via.placeholder.com/150",
+    "description": "Rich and moist chocolate cake topped with creamy frosting."
+  },
+  {
+    "id": 2,
+    "name": "Cinnamon Roll",
+    "price": 45,
+    "image": "https://via.placeholder.com/150",
+    "description": "Freshly baked cinnamon roll with a generous glaze of icing."
+  }
+]
